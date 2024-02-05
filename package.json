@@ -1,0 +1,9 @@
+{
+    "name": "chatApp",
+    "version": "0.0.1",
+    "description": "",
+    "type": "module",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
